@@ -5,7 +5,7 @@ Global Financial Portfolio Director
 STYRERS   
 
 # Team Members 
-- Sylvia
+- Silvia
 - Tasmia
 - Yunheng (Harri)
 - Ramesh

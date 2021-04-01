@@ -22,7 +22,7 @@ We will also calculate net value based on tax residency and local currency.
 - Forex exchange rates   
 
 ## Portfolio 
-- Primary Instruments 
+- Primary Instruments  
     * Crypto
     * Shares / ETF
     * Bonds
@@ -67,6 +67,7 @@ Three recommendation portfolios based on risk and return
 14. Model the data - design the data
 15. Presentation creation & practice
 16. Submit code
+17. Git set up and planning
 
 ---
 
@@ -77,9 +78,13 @@ Three recommendation portfolios based on risk and return
 * What analysis need to be done?
 * Based on criteria, use APIs to retrieve the information on leading instruments
 * Understand risk and liquidity (least liquid is realestate)
+* Portfolio construction strategy 
 
 # Brainstorm on Open Areas
 
 * What analysis need to be done?
 > Analysis of a portfolio: Could be Volatility, Sharpe Ratio, Expected Return, more options can be added.
 > Optimisation
+--- 
+
+

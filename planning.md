@@ -50,9 +50,3 @@ e) present tearsheet
 f) send the tearsheet
 
 Harri check beta for cryoptocurrency and calculation  
-
-
-
-http://1ifbylan2ifbyc.github.io/portfolio
-https://www.quantconnect.com/tutorials/introduction-to-financial-python/modern-portfolio-theory#Modern-Portfolio-Theory-Risk-Aversion
-https://pyportfolioopt.readthedocs.io/en/latest/index.html

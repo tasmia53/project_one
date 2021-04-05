@@ -12,23 +12,23 @@ STYRERS
 
 # Project Description
 We will provide a recommended global portfolio tearsheet based on investor's investment criteria
-The code base will look at global markets and suggest three portfolios based on risk and return. We will also calculate net value based on tax residency and show the performance over the past 3-5-10 years of the portfolio.
+The code base will look at global markets and suggest three portfolios based on risk and return. We will also calculate net value based on tax residency. Show the performance over the past 3-5-10 years of the portfolio.
 
 # Datasets 
-- Investor input dataset
-- Each instrument market data
-- Tax infomation for each country 
-- Forex exchange rates   
+- investor input dataset
+- each instrument market data
+- tax infomation for each country 
+- forex exchange rates   
 
 ## Portfolio 
 - Primary Instruments 
-    * Crypto
+    * Crypto - usd denominated coin / bitcoin 
     * Shares / ETF
     * Bonds
-    * Commodities
+    * 
 - Secondary 
-    * Crypto 
-    * Currencies 
+    * Commodities 
+    * Real estate 
 
 - Realestate if time provides
 - Analyse Country based
@@ -38,7 +38,7 @@ The code base will look at global markets and suggest three portfolios based on 
 
 ## Libs to investigate
 * Yahoo Finance
-* For portfolio analysis - search
+* For portfolio analytics - search
 * HTML forms - search 
 * Risk calculator libraries 
 
@@ -61,18 +61,10 @@ Three recommendation portfolios based on risk
 11. Show tax rates in mapbox if time permits
 12. We will start with two of each primary instruments
 
----
-
 # Open Areas
 
-* What information do we need from the prospective investor? 
-* What information do we need to collect from the market ?
-* What analysis need to be done?
-* Based on criteria, use APIs to retrieve the information on leading instruments
-* Understand risk and liquidity ( least liquid is realestate)
-
-# Brainstorm on Open Areas
-
-* What analysis need to be done?
-> Analysis of a portfolio: Could be Volatility, Sharpe Ratio, Expected Return, more options can be added.
-> Optimisation
+* what information do we need from the prospective investor? 
+* what information do we need to collect from the market ?
+* what analysis need to be done?
+* based on criteria, use APIs to retrieve the information on leading instruments
+* understand risk and liquidity ( least liquid is realestate)

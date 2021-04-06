@@ -3,7 +3,8 @@
 #### There are five/six stock selection criteria: 
 
 * Capitalization (Market Cap) - For example: 
-*Top 10 largest companies listed in ASX are: These companies also provide consistent dividend yeild as well. Their ROE, P/E and P/B ratios are better compared to their peers. However, some of the companies Beta could be higher in comaprison with ASX200. 
+* Top 10 largest companies listed in ASX are: These companies also provide consistent dividend yeild as well. Their ROE, P/E and P/B ratios are better compared to their peers. However, some of the companies Beta could be higher in comaprison with ASX200. 
+
   1.Commonwewalth Bank (CBA)
   2.BHP group (BHP)
   3.CSL (CSL)
@@ -14,7 +15,9 @@
   8.Wesfarmers (WES)
   9.Macquarie Group (MGQ)
   10.Woolworths Group (WOW)
-*Top performing stocks in US (NASDAQ): 
+ 
+* Top performing stocks in US (NASDAQ):
+ 
   1. Tesla Inc: TSLA
   2. Etsy Inc: ETSY  	 
   3. Nvidia Corp: NVDA  	
@@ -25,6 +28,7 @@
   8. Freeport-McMoRan Inc:FCX  	 
   9. Cadence Design Systems Inc:CDNS  	 
   10. ServiceNow Inc. 
+ 
 * Return on capital or Return on Equity (ROE) - is a measure of business profitability and is calculated as the ratio of net income to equity (NI/TE) (the company’s assets, net of debts and other liabilities). Higher ROE indicates a better performance, however, sometimes it may also indicates company is highly levered. 
 
 * Price/earnings ratio (P/E) - The most widely used indicator by those seeking to approach the analysis (and choice) of securities according to the fundamental criteria. A stock with low P/E expected to provide higher return in the short run but as a low P/E indicates that you are “paying less” for the company’s earnings, so the stock in question is affordable but it could also mean that future earnings expectations are not particularly positive.

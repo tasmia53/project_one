@@ -38,3 +38,13 @@
 * Beta (systematic risk or non-diversifiable risk indicator) - Beta less than one is less riskier than the market. But it is logical to expect that in growth phases of the market high beta stocks are preferable, and vice versa, but not always. The beta can therefore be used profitably more as a control parameter or in combination with other extraction filters.
 
 * Dividend yield - The dividend yield, expressed as a percentage, is a financial ratio (dividend/price) that shows how much a company pays out in dividends each year relative to its stock price. A healthy company is generally able to distribute dividends to remunerate its shareholders, the dividend yield measures the ability to do so. However, in some cases, a high dividend yield may indicate little reinvestment or poor growth prospects. 
+
+So based on the analysis of this ratios: 
+
+ROE - Higher the better
+P/E - Lower P/E stocks provides higher return in short run but for long term view point, we should choose stock with high P/E 
+P/B - Higher the better
+Dividend Yield - We should aim for middle tier yields (not higher yileds). Higher yeilds is good for short run but often higher yeild stock generate lower returns
+Beta - Lower (less than 1 comapred to market) is better
+Dividend Coverage Ratio - Higher is better 
+(A range of 35% to 55% dividend is considered healthy and appropriate from a dividend investor's point of view. A company that is likely to distribute roughly half of its earnings as dividends means that the company is well established and a leader in its industry.)

@@ -12,13 +12,11 @@ STYRERS
 
 # Project Description
 We will provide a recommended global portfolio tearsheet based on investor's investment criteria
-The code base will look at global markets and suggest three portfolios based on risk and return. We will also calculate net value based on tax residency. Show the performance over the past 3-5-10 years of the portfolio.
+The code base will look at global markets and suggest three portfolios based on risk and return. Show the performance over the past 3-5-10 years of the portfolio.
 
 # Datasets 
 - investor input dataset
-- each instrument market data
-- tax infomation for each country 
-- forex exchange rates   
+- each instrument market data 
 
 ## Portfolio 
 - Primary Instruments 
@@ -32,7 +30,6 @@ The code base will look at global markets and suggest three portfolios based on 
 
 - Realestate if time provides
 - Analyse Country based
-- Tax and Net Revenue 
 
 ---
 
@@ -49,7 +46,7 @@ Based on criteria of the investor, we provide a teardon of the best global inves
 Three recommendation portfolios based on risk
 
 1. Understand and select top instruments
-2. Select investment countries - 2 or 3 show on Mapbox  
+2. Select investment countries - 2 or 3 
 3. Input criteria
 4. Retrieve the data
 5. Analyse the data - portfolio analyzer

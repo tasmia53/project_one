@@ -9,6 +9,10 @@ STYRERS
 - Tasmia
 - Yunheng (Harri)
 - Ramesh
+# Submission Folder 
+
+[FinalCode](./final)
+[Dashboard](./final/port_report.html)
 
 # Project Description
 We will provide a recommended global portfolio tearsheet based on investor's investment criteria
